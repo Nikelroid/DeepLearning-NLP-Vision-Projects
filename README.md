@@ -2,11 +2,11 @@
 
 # Deep Learning Assignments: NLP & Computer Vision
 
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![PyTorch](https://img.shields.io/badge/PyTorch-1.13+-ee4c2c.svg)
-![Transformers](https://img.shields.io/badge/Transformers-4.26+-yellow.svg)
-![Torchvision](https://img.shields.io/badge/Torchvision-0.14+-orange.svg)
-![Hazm](https://img.shields.io/badge/Hazm-NLP-green.svg)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-1.13%2B-ee4c2c?logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-4.26%2B-yellow?logo=huggingface&logoColor=white)
+![Torchvision](https://img.shields.io/badge/Torchvision-0.14%2B-orange?logo=pytorch&logoColor=white)
+![Hazm](https://img.shields.io/badge/Hazm-NLP-green)
 
 
 ## Description
