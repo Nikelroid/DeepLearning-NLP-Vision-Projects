@@ -1,12 +1,13 @@
+
+
+# Deep Learning Assignments: NLP & Computer Vision
+
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.13+-ee4c2c.svg)
 ![Transformers](https://img.shields.io/badge/Transformers-4.26+-yellow.svg)
 ![Torchvision](https://img.shields.io/badge/Torchvision-0.14+-orange.svg)
 ![Hazm](https://img.shields.io/badge/Hazm-NLP-green.svg)
 
-# Deep Learning Assignments: NLP & Computer Vision
-
-**Suggested Repo Name:** `DeepLearning-NLP-Vision-Projects`
 
 ## Description
 This repository contains a collection of three deep learning projects developed as part of an advanced assignment series. The projects utilize **PyTorch** to solve distinct challenges in Natural Language Processing (NLP) and Computer Vision. The focus ranges from generating Persian poetry using Recurrent Neural Networks to captioning images using Encoder-Decoder architectures, and finally, classifying literary styles using modern Transformers (BERT).
